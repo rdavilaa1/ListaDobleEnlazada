@@ -1,0 +1,22 @@
+// Lista Doble Enlazada
+digraph {
+	rankdir=LR
+	Nodo0 [label="Nicole
+Chavez
+987"]
+	Nodo0 -> Nodo1
+	Nodo1 -> Nodo0
+	Nodo1 [label="Irvana
+Ortega
+560"]
+	Nodo1 -> Nodo2
+	Nodo2 -> Nodo1
+	Nodo2 [label="Robinson
+Davila
+9490"]
+	Nodo2 -> Nodo3
+	Nodo3 -> Nodo2
+	Nodo3 [label="Daniel
+Alba
+24"]
+}
